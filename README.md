@@ -18,7 +18,4 @@ A dynamic and festive web app featuring user authentication and data-driven cont
 - Holiday-themed design
 - Responsive layout
 - Simple navigation
-
-## 📸 Preview
-_Insert screenshot of homepage_
 ```
